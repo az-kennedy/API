@@ -1,0 +1,16 @@
+Questions:
+- What was Manchester City last play?
+  - What was their score?
+  - Who do they play next?
+- What are the top rated books for the last month?
+- What are the best movies of all time?
+  - By genres
+- Can I order a pizza with an API?
+  - https://github.com/gamagori/pizzapi
+- What are the countries which population is increasing the most?
+  - The least?
+
+- Movie database using IMDB, Rotten Tomato
+- Goodreads API to get data about books https://www.goodreads.com/api
+- Reviews from Google Books https://www.programmableweb.com/api/google-books
+- Make sense of US Census Data - https://www.programmableweb.com/api/open-census
